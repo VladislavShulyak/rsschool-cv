@@ -1,6 +1,5 @@
 # Vladislav Shulyak
-![Profile Photo](https://i.ibb.co/tCchwsj/resume.jpg )
-------------------------------------------------------
+![Profile Photo](https://i.ibb.co/r7LPCtX/resume.jpg )
 ## Contact info
 * Email: [Vladislav.dll@gmail.com](Vladislav.dll@gmail.com)
 * GitHub: [VladislavShulyak](https://github.com/VladislavShulyak)
