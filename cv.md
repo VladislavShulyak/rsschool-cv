@@ -9,6 +9,10 @@
 ## Skills
 * Programming languages: JavaScript, HTML, CSS, C++
 * Tools: Git, Adobe Photoshop, Visual Studio Code, WebStorm
+
+## Code examples
+* [Web Developer Blog](http://o44475tj.beget.tech/) (WordPress)
+
 ## Education
 * Higher Education Program: Belarusian State University of Informatics and Radioelectronics, Faculty of Infocommunications (2018 - nowadays)
 * Courses: The Rolling Scopes School, Frontend development (2020 - nowadays)
