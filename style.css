@@ -1,0 +1,76 @@
+body{
+    display: flex;
+    color: black;
+    width:1024px;
+    margin:0 auto;
+    padding: 0 ;
+    background: #f2f2f2;
+    font-family: 'Source Sans Pro','Arial', sans-serif;
+}
+.content{
+    background: white;
+    width:1024px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+
+}
+h1{
+    vertical-align: middle;
+    padding: 20px 60px;
+    text-decoration: none;
+    border-bottom: 2px solid lightgray;
+}
+h2 {
+    padding: 10px 20px;
+    text-decoration: none;
+    border-bottom: 2px solid lightgray;
+}
+h1 a:hover,
+h2 a:hover
+{
+    transition: 0.3s;
+    color: #a168ff;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+img{
+    border-radius: 50%;
+    padding: 4px;
+    box-shadow: 0 0 5px rgba(255, 61, 100, 0.5);
+}
+p{
+    padding: 0 20px;
+}
+.avatar{
+    padding: 0 60px;
+}
+ul.links a {
+    color: #f04058;
+}
+ul.links a:hover{
+    color: #a168ff;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+ul.english-level li:last-child{
+    padding: 0 0 0 0;
+}
+.english,
+.code-examples,
+.skills,
+.contact-info,
+.summary,
+.education{
+    width: 900px;
+    margin: 0 auto;
+}
+.name{
+    font-size: 24px;
+}
+
+
